@@ -1,0 +1,2 @@
+img = plt.imread('./jupyter.png')
+plt.imshow(img)
