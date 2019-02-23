@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://mirrors.aliyun.com/pypi/simple/"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+jupyter = "*"
+xlrd = "*"
+requests = "*"
+notebook = "*"
+plotly = "*"
+pytz = "*"
+seaborn = "*"
+statsmodels = "*"
+
+[requires]
+python_version = "3.6"
